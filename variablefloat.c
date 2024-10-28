@@ -1,12 +1,13 @@
 #include<stdio.h>
-          int main()
-          {
-          int i;
-          i=17;
-          printf("%d",i);
-          return 0;
-          }
+
+int main()
+{
+   float i ;
+     i= 10.5;
+    printf("%f!",i);
+    return 0;
+    }=
 
 
      OUTPUT 
-      17
+      10.5000
